@@ -1,0 +1,48 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# venv
+.venv/
+venv/
+env/
+
+# uv
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# YOLO 가중치 (용량 큼)
+models/*.pt
+models/*.onnx
+
+# 데이터 (영상은 git에 안 올림)
+data/videos/*
+data/outputs/*
+!data/videos/.gitkeep
+!data/outputs/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# 기타
+*.log
+*.csv
+EOF
