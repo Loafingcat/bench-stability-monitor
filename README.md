@@ -1,5 +1,9 @@
 # Bench Stability Monitor
 
+## 분석 영상
+
+https://studio.youtube.com/channel/UCzbKLeTUWfJjLpU4kOoAMVw
+
 ## 프로젝트 소개
 
 Bench Stability Monitor는 고중량 벤치프레스 수행 중 발생할 수 있는 부상 위험을 영상 분석을 통해 탐지하는 프로젝트입니다.
