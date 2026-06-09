@@ -2,7 +2,7 @@
 
 ## 분석 영상
 
-https://studio.youtube.com/channel/UCzbKLeTUWfJjLpU4kOoAMVw
+[https://studio.youtube.com/channel/UCzbKLeTUWfJjLpU4kOoAMVw](https://youtube.com/shorts/YK7ZvKm7lhc)
 
 ## 프로젝트 소개
 
